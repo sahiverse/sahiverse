@@ -1,8 +1,6 @@
-# Hey, I'm Sahithi 👋
+# Hey, I'm Sahithi 👋🏾
 
 I build things that (usually) work and keep improving the ones that don’t.
-
-🎓 Final-year student, aiming for SDE / AI & ML roles.
 
 🚀 Currently:
 - Building: PickBetter🌱
